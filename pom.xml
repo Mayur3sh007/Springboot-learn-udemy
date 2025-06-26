@@ -47,7 +47,7 @@
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 
-		<!-- Adding support for Spring Security: Provides default username "user" & generated security password for the app to access sensitive data like mappings -->
+		<!-- Addding support for Spring Security: Provides default username "user" & generated security password for the app to access sensitive data like mappings -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
